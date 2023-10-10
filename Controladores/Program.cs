@@ -22,7 +22,7 @@ namespace CalculadoraAritmetica.Controladores
 
             //Variables
             bool cerrarMenu = false;
-            int opcionSeleccionada,num1,num2;
+            int opcionSeleccionada;
 
             //iniciamos el bucle while
             while (!cerrarMenu) 
