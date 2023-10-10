@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\CalculadoraAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\CalculadoraAritmetica.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\CalculadoraAritmetica.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\CalculadoraAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\bin\Debug\net6.0\CalculadoraAritmetica.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\bin\Debug\net6.0\CalculadoraAritmetica.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\bin\Debug\net6.0\CalculadoraAritmetica.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\bin\Debug\net6.0\CalculadoraAritmetica.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\bin\Debug\net6.0\CalculadoraAritmetica.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\CalculadoraAritmetica.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\refint\CalculadoraAritmetica.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\CalculadoraAritmetica.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\CalculadoraAritmetica.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraAritmetica\obj\Debug\net6.0\ref\CalculadoraAritmetica.dll
