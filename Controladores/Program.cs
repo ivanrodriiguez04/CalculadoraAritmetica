@@ -18,6 +18,7 @@ namespace CalculadoraAritmetica.Controladores
         {
             //Creamos los objetos para utilizar los metodos
             MenuInterfaz menuInt = new MenuImplementacion();
+            CalculadoraInterfaz calcInt=new CalculadoraImplementacion();
 
             //Variables
             bool cerrarMenu = false;
@@ -34,16 +35,16 @@ namespace CalculadoraAritmetica.Controladores
                         Console.WriteLine("Saliendo de la aplicacion");
                         break;
                     case 1:
-                        menuInt.sumar();
+                        calcInt.sumar();
                         break;
                     case 2:
-                        menuInt.restar();
+                        calcInt.restar();
                         break;
                     case 3:
-                        menuInt.multiplicar();
+                        calcInt.multiplicar();
                         break;
                     case 4:
-                        menuInt.dividir();
+                        calcInt.dividir();
                         break;
                     default:
                         Console.WriteLine("[INFO] - La opcion seleccionada no coincide con ninguna.");
